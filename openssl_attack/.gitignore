@@ -1,0 +1,10 @@
+*.o
+*.d
+*.s
+*.a
+*.pc
+.gdb_history
+openssl/crypto/buildinf.h
+openssl/crypto/include/internal/bn_conf.h
+openssl/crypto/include/internal/dso_conf.h
+openssl/include/openssl/opensslconf.h
